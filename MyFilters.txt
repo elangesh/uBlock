@@ -1,0 +1,76 @@
+http://167.99.92.127
+tamil-yogi.com##.vc_col-sm-4.vc_column_container.wpb_column.sticky-column > .vc_column-inner
+tamilgun.fr##.ts-text-element.col-sm-12.col-md-12.col-lg-12 > center > div
+tamilgun.fr##div.content-block.row:nth-of-type(4) > .col-sm-12.col-md-12.col-lg-12
+tamilgun.uk##.col-lg-12 > div.site-section:nth-of-type(1)
+tamilgun.uk##.ts-sidebar-element
+tamilgun.uk##.ts-text-element.col-sm-12.col-md-12.col-lg-12 > center > div
+tamilgun.uk##div.content-block.row:nth-of-type(10) > .animateOnce.animatedParent.col-lg-12
+tamilyogi.eu###sidebar
+tamilyogi.nu###sidebar
+www.movierulz.xyz###sidebar
+www.online-stopwatch.com###menu > ul
+www.online-stopwatch.com###newbox
+www.online-stopwatch.com##.footer
+www.online-stopwatch.com##.fullscreen
+www.online-stopwatch.com##.header
+www.online-stopwatch.com##.language
+www.online-stopwatch.com##.push
+www.online-stopwatch.com##.topbox
+www.rajtamil.co###scrolling-down-popup-plugin
+www.rajtamil.co###sidebar
+www.reddit.com##.jspfgX.s7pq5uy-6
+www.tamilcrow.net##.vw-content-sidebar
+www.tamilcrows.com###commentform
+www.tamilcrows.com###comments
+www.tamilcrows.com##.clearfix.vw-about-author
+www.tamilcrows.com##.clearfix.vw-post-navigation
+www.tamilcrows.com##.container.vw-bar.vw-header__main-container
+www.tamilcrows.com##.vw-bar.vw-bottom-bar--default.vw-bottom-bar
+www.tamilcrows.com##.vw-breaking-news-area
+www.tamilcrows.com##.vw-content-sidebar
+www.tamilcrows.com##.vw-header__inner
+www.tamilcrows.com##.vw-more-articles--visible.vw-disable-inview.vw-more-articles
+www.tamilcrows.com##.vw-our-picks-posts
+www.tamilcrows.com##.vw-related-posts
+www.tamilcrows.com##.vw-site-footer-sidebar--layout-5.vw-footer-sidebars
+www.tamilcrows.com##.vw-tags
+www.tamilcrows.com##.vw-top-bar--ticker-social.vw-top-bar
+www.tamilcrowtv.com###comments
+www.tamilcrowtv.com##.clearfix.vw-about-author
+www.tamilcrowtv.com##.clearfix.vw-post-navigation
+www.tamilcrowtv.com##.container.vw-bar.vw-header__main-container
+www.tamilcrowtv.com##.entry-meta.post-301224.post-views
+www.tamilcrowtv.com##.theiaStickySidebar.vw-sticky-sidebar
+www.tamilcrowtv.com##.vw-bar.vw-bottom-bar--default.vw-bottom-bar
+www.tamilcrowtv.com##.vw-breaking-news-area
+www.tamilcrowtv.com##.vw-more-articles--visible.vw-disable-inview.vw-more-articles
+www.tamilcrowtv.com##.vw-our-picks-posts
+www.tamilcrowtv.com##.vw-post-header
+www.tamilcrowtv.com##.vw-related-posts
+www.tamilcrowtv.com##.vw-site-footer-sidebar--layout-5.vw-footer-sidebars
+www.tamilcrowtv.com##.vw-tags
+www.tamilcrowtv.com##.vw-top-bar--ticker-social.vw-top-bar
+www.tamildbox.rocks##.sidebar
+www.tamildbox.world###yx-sli1
+www.tamildbox.world##.sidebar
+www.thiruttuvcd.website###sidebar
+www.youtube-nocookie.com
+www.youtube.com###ad-badge
+www2.filmlinks4u.is##.theiaStickySidebar
+yesmovies.gg###episodes-sv-1
+yesmovies.gg###pas-list-list
+yesmovies.gg##.main-detail.main-content > div.clearfix:nth-of-type(3)
+yesmovies.gg##.main-detail.main-content > div.clearfix:nth-of-type(5)
+yesmovies.gg##.mlw-related.movies-list-wrap
+yesmovies.gg##.mvi-content > .clearfix
+yesmovies.gg##.mvic-desc
+yesmovies.gg##.pa-server
+yesmovies.gg##.pad
+yesmovies.gg##.pash-title
+yesmovies.gg##.ps-theme-default.ps-container.content
+yesmovies.gg##div#player-area:nth-of-type(7)
+yesmovies.gg##footer
+||embed2.tamildbox.tips/hls_vast/bf74830ec57a49238dce74df53f96c03$subdocument
+||st.chatango.com/h5/gz/r0327191219/id.html$subdocument
+||www.thiruttuvcd.stream/wp-content/uploads/2018/05/download-movie.gif$image
