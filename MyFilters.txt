@@ -1,11 +1,10 @@
-www.youtube.com###dialog
-www.youtube.com##.opened
-youtube.com##ytd-popup-container
-youtube.com##ytd-consent-bump-lightbox.style-scope
-www.youtube.com##.opened
-www.google.com###lb
-www.google.com##:root:style(overflow-y: visible !important;)
-http://167.99.92.127
+# www.youtube.com###dialog
+# www.youtube.com##.opened
+# youtube.com##ytd-popup-container
+# youtube.com##ytd-consent-bump-lightbox.style-scope
+# www.youtube.com##.opened
+# www.google.com###lb
+# www.google.com##:root:style(overflow-y: visible !important;)
 tamil-yogi.com##.vc_col-sm-4.vc_column_container.wpb_column.sticky-column > .vc_column-inner
 tamilgun.fr##.ts-text-element.col-sm-12.col-md-12.col-lg-12 > center > div
 tamilgun.fr##div.content-block.row:nth-of-type(4) > .col-sm-12.col-md-12.col-lg-12
